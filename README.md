@@ -14,10 +14,5 @@ Berikut kriteria submission yang harus Anda penuhi:
 * Dapat memprediksi gambar yang diunggah ke Colab seperti gambar di bawah.
 * Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
 
-
-
-
-
-
-
-
+# CREDITS
+Agung Siregar [@ngliota](https://www.github.com/ngliota)
